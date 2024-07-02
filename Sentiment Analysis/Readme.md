@@ -6,6 +6,7 @@
 <h3>Prerequisite:</h3>
 <ul>
   <li>Basic python with scikit-learn,nltk,pandas</li>
-  <li>Basics of nlp like Stop words,Lemmatization,Stemming,Tokenization</li>
+  <li>Basics of nlp like Stop words,Lemmatization,Stemming,Tokenization,Bag of Words,TF-IDF</li>
   <li>Basics of ML</li>
+  <li>Moreover having idea of text representation methods might also help like:One-hot encoding,Word2Vec,Word Embedding</li>
 </ul>
