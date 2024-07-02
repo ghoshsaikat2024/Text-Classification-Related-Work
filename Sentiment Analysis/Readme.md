@@ -2,6 +2,7 @@
 <h3>Dataset Related Info:</h3>
 <p>For datasets I'll be using variety of sources like Dataworld,Amazon reviews etc.</p>
 <p>Data World dataset link is <a href='https://data.world/crowdflower/sentiment-analysis-in-text'>here</a></p>
+<p>To get more dataset you might see <a href="https://www.analyticsvidhya.com/blog/2023/12/top-sentiment-analysis-datasets/">this</a></p>
 
 <h3>Prerequisite:</h3>
 <ul>
