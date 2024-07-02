@@ -2,3 +2,10 @@
 <h3>Dataset Related Info:</h3>
 <p>For datasets I'll be using variety of sources like Dataworld,Amazon reviews etc.</p>
 <p>Data World dataset link is <a href='https://data.world/crowdflower/sentiment-analysis-in-text'>here</a></p>
+
+<h3>Prerequisite:</h3>
+<ul>
+  <li>Basic python with scikit-learn,nltk,pandas</li>
+  <li>Basics of nlp like Stop words,Lemmatization,Stemming,Tokenization</li>
+  <li>Basics of ML</li>
+</ul>
