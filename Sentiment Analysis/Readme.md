@@ -11,3 +11,14 @@
   <li>Basics of ML</li>
   <li>Moreover having idea of text representation methods might also help like:One-hot encoding,Word2Vec,Word Embedding</li>
 </ul>
+<h3>More about the dataset of Dataworld:</h3>
+<ul>
+  <li>The dataset has 12 types of sentiment categories with variable no. of data for each category.So this dataset is imbalanced.</li>
+  <li>To handle this type of data we can use the following techiques.</li>
+  <ul>
+    <li>Undersample of majority classes</li>
+    <li>Oversample of minority classes</li>
+    <li>SMOTE</li>
+    <p>Moreover we should use F1 score as our metric not accuracy for evaluation purposes.</p>
+  </ul>
+</ul>
