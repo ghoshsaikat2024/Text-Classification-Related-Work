@@ -13,5 +13,5 @@
   <li>pandas</li>
   <li>nltk</li>
   <li>scikit-learn</li>
-  <li>gensim</li>
+  <li>gensim(For Word2Vec creation)</li>
 </ul>
